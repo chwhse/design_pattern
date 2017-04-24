@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design_pattern.ch04.checkTest.CheckTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-24T00:57:34" hostname="DESKTOP-U827NQG" time="0.015">
+  <properties/>
+  <testcase name="test" classname="design_pattern.ch04.checkTest.CheckTest" time="0.015"/>
+  <system-out><![CDATA[end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design_pattern.ch05.strategy.TestStrategy" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-24T00:57:34" hostname="DESKTOP-U827NQG" time="0.073">
+  <properties/>
+  <testcase name="test" classname="design_pattern.ch05.strategy.TestStrategy" time="0.073"/>
+  <system-out><![CDATA[My name is 태권브이
+I can only walk.
+I have Missile and can attack with it.
+My name is 아톰
+I can fly.
+I have Missile and can attack with it.
+My name is 선가드
+I can fly.
+I have Laser and can attack with it.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design_pattern.ch05.singleton.TestSingleton" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-21T01:11:11" hostname="DESKTOP-U827NQG" time="0.017">
+  <properties/>
+  <testcase name="test" classname="design_pattern.ch05.singleton.TestSingleton" time="0.017"/>
+  <system-out><![CDATA[1-User print using design_pattern.ch05.singleton.before.Print@4789d06c. 
+
+2-User print using design_pattern.ch05.singleton.before.Print@7a4ef414. 
+
+3-User print using design_pattern.ch05.singleton.before.Print@19263088. 
+
+4-User print using design_pattern.ch05.singleton.before.Print@5082ce81. 
+
+5-User print using design_pattern.ch05.singleton.before.Print@59817e4d. 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

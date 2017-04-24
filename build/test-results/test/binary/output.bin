@@ -1,10 +1,34 @@
 end
-My name is 태권브이
-I can only walk.
-(I have Missile and can attack with it.
-My name is 아톰
-I can fly.
-(I have Missile and can attack with it.
-My name is 선가드
-I can fly.
-&I have Laser and can attack with it.
+I1-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+I2-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+I3-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+I4-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+I5-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+J1-User print using design_pattern.ch06.singleton.before.Print@5e248ccb. 
+
+J2-User print using design_pattern.ch06.singleton.before.Print@300a4d60. 
+
+J3-User print using design_pattern.ch06.singleton.before.Print@21410206. 
+
+J4-User print using design_pattern.ch06.singleton.before.Print@53daec2b. 
+
+J5-User print using design_pattern.ch06.singleton.before.Print@29e2604f. 
+
+
+	My name is 태권브이
+
+	I can only walk.
+
+	(I have Missile and can attack with it.
+
+	My name is 아톰
+
+	I can fly.
+
+	(I have Missile and can attack with it.
+
+	My name is 선가드
+
+	I can fly.
+
+	&I have Laser and can attack with it.

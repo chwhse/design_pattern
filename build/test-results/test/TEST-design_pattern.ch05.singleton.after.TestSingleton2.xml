@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design_pattern.ch05.singleton.after.TestSingleton2" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-24T00:57:34" hostname="DESKTOP-U827NQG" time="0.011">
+  <properties/>
+  <testcase name="test" classname="design_pattern.ch05.singleton.after.TestSingleton2" time="0.011"/>
+  <system-out><![CDATA[1-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+2-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+3-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+4-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+5-Userprint using design_pattern.ch06.singleton.after.Printer@5357a2e5.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
